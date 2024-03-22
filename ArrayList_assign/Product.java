@@ -72,7 +72,6 @@ public class Product {
             System.out.println("No discount applied");
         }
         System.out.println("Available stock: " + avq + " pieces");
-        
         System.out.println("Qty: " + qty);
         System.out.println("Cost to be paid: " + tcost);
     }
